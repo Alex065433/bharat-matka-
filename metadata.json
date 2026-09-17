@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Matka AI Analytics",
+  "description": "Historical Matka chart analysis, statistical pattern recognition, transparent model scoring, and backtesting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
